@@ -1,3 +1,3 @@
 # My first GitHub repo
 
-Hello world!
+Hello world! Testing repeated credential requirement.
